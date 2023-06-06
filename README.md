@@ -1,6 +1,6 @@
 # reading-notes-102  
 ## About Me  
-I am a social policy researcher and work with charites and local governemnts to amend inequitable systems and policies. I think software has huge potential to level the societal playing field, here's what I'm learning so far [GitHub Link](https://github.com/Elloyouease).
+I am a social policy researcher and work with charites and local governemnts to amend inequitable systems and policies. I think software has huge potential to level the societal playing field, here's what I'm learning so far on [GitHub](https://github.com/Elloyouease).
 
 I like making the following, in no particular order...
 - perfume
